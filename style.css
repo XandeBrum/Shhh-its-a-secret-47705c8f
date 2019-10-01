@@ -1,0 +1,16 @@
+body {
+    background-color: #1534;
+}
+
+
+
+input {
+	width: 266px;
+	border-radius: 2em;
+}
+
+#search {
+    width: 20em;  height: 2em;
+}
+
+
